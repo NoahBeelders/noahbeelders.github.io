@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,9 +14,10 @@ In general, I am interested in many different areas in probability and enjoy lea
 For any questions or ideas about my research, please feel free to contact me via email: n.beelders@liverpool.ac.uk
 
 
-A data-driven personal website
+#### My research
 ====
+ - Levy processes
+ - Fractional Brownian Motion
 
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+
 

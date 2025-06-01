@@ -6,9 +6,9 @@ permalink: /publication/Paper1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-10-01
 venue: 'Electronic Communications in Probability'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+slidesurl: ''
+paperurl: 'https://projecteuclid.org/journals/electronic-communications-in-probability/volume-29/issue-none/Probabilistic-Cauchy-functional-equations/10.1214/24-ECP626.full'
+bibtexurl: ''
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

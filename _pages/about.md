@@ -13,11 +13,12 @@ In general, I am interested in many different areas in probability and enjoy lea
 
 For any questions or ideas about my research, please feel free to contact me via email: n.beelders@liverpool.ac.uk
 
-
+<!---
 #### My research
 ====
  - Levy processes
  - Fractional Brownian Motion
+--->
 
 
 
